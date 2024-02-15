@@ -26,7 +26,7 @@ Our Movie Recommendation Website is a user-friendly and intuitive platform that 
 7. **Responsive Design**: The website is optimized for various devices, including desktops, tablets, and mobile phones, ensuring a seamless user experience.
 
 ## Installation
-1. Clone this repository to your local machine using [git clone [https://github.com/your-username/movie-recommendation-website.git](https://github.com/guptasonu14/Moviex.git)]
+1. Clone this repository to your local machine using [git clone [https://github.com/guptasonu14/Moviex.git](https://github.com/guptasonu14/Moviex.git)]
 2. Navigate to the project directory and install the required dependencies with `npm install`.
 
 ## Usage
