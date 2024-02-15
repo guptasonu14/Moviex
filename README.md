@@ -44,7 +44,8 @@ Our Movie Recommendation Website is a user-friendly and intuitive platform that 
 
 ## Screenshots
 1. First page (banner)
-   ![First Page](path/to/first-page-image)
+   ![First Page](path/to/first-page-image)![image](https://github.com/guptasonu14/Moviex/assets/74126459/08f11c26-1f6b-4ef6-9fa2-9048d99fb70c)
+
 
 2. Trending page
    ![Trending Page](path/to/trending-page-image)
