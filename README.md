@@ -48,16 +48,16 @@ Our Movie Recommendation Website is a user-friendly and intuitive platform that 
 
 
 2. Trending page
-   ![Trending Page](path/to/trending-page-image)
+   ![Trending Page]![image](https://github.com/guptasonu14/Moviex/assets/74126459/f1da4528-4d0d-4714-ba35-74c7c8063656)
+
 
 3. Individual Page
-   ![Individual Page](path/to/individual-page-image)
+   ![Individual Page]![image](https://github.com/guptasonu14/Moviex/assets/74126459/57665897-ce14-4436-be35-5cd537c74f31)
 
-4. Search
-   ![Search](path/to/search-image)
 
-5. Search Results
-   ![Search Results](path/to/search-results-image)
+4. Search Results
+   ![Search Results](![image](https://github.com/guptasonu14/Moviex/assets/74126459/139d0ffe-f93c-4ad8-afb8-05e828f38e78)
+
 
 ## Contributing
 We welcome contributions from the open-source community. If you would like to contribute, please follow these steps:
